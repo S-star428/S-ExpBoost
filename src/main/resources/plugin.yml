@@ -1,0 +1,7 @@
+name: S-Exp
+version: 1.0
+main: com.star.expManger.ExperienceBoostPlugin
+api-version: 1.21
+commands:
+  경험치관리:
+    description: 경험치 부스트와 레벨업을 관리합니다.
