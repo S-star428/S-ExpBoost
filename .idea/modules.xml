@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/S-ExpBoost.iml" filepath="$PROJECT_DIR$/S-ExpBoost.iml" />
       <module fileurl="file://$PROJECT_DIR$/expBoost.iml" filepath="$PROJECT_DIR$/expBoost.iml" />
     </modules>
   </component>

@@ -1,2 +1,7 @@
-com\star\expManger\ExperienceBoostPlugin$1.class
+com\star\expManger\TemplateGuiService.class
+com\star\expManger\MaxDurationGuiService$State.class
+com\star\expManger\MaxDurationGuiService.class
+com\star\expManger\ScrollService.class
+com\star\expManger\TemplateGuiService$EditMode.class
+com\star\expManger\ScrollService$1.class
 com\star\expManger\ExperienceBoostPlugin.class
